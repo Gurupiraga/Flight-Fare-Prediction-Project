@@ -2,7 +2,7 @@
 Problem Statement
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travelers saying that flight ticket prices are so unpredictable. That’s why we will try to use machine learning to solve this problem. This can help airlines by predicting what prices they can maintain.
 
-Domain Analysis:
+## Domain Analysis:
 1) Airlines:
 An organization that provides regular public air transportation on one or more routes. The service allows travelers to search multiple carriers' flight schedules. This column includes various types of airlines, such as Indigo, Jet Airways, and Air India, among others.
 
@@ -36,13 +36,13 @@ We shall learn about eating, the types of food, and other facilities in this col
 11) Price:
 The cost of the flight for the entire voyage, including all charges before boarding.
 
-Data Analysis Report
+## Data Analysis Report
 
-Introduction
+### Introduction
 
 This data analysis report is based on a dataset containing information about airline journeys. The dataset includes various features such as the date of the journey, source, destination, route, departure time, arrival time, duration, total stops, and additional information. The dataset consists of 10,683 records.
 
-Data Summary
+### Data Summary
 
 Here is a summary of the key statistics and characteristics of the dataset:
 
@@ -79,7 +79,7 @@ Duration: The most common duration is "2h 50m" with 5,625 occurrences.
 Total_Stops: The most common number of stops is "1 stop" with 8,345 occurrences.
 Additional_Info: The most common additional information is "No info" with 8,345 occurrences.
 
-Insights
+### Insights
 
 Jet Airways: Jet Airways is the most frequently occurring airline in the dataset, indicating it is a popular choice among travelers.
 
@@ -97,6 +97,6 @@ Total Stops: Most flights have "1 stop," which suggests that direct flights are 
 
 Additional Information: The "No info" category is prevalent in the dataset, suggesting that there is missing or unspecified information for a significant number of records.
 
-Conclusion
+## Conclusion
 
 This data analysis report provides an overview of the given airline journey dataset. It highlights the most common values for various features and provides insights into the dataset's characteristics. Further analysis, such as data cleaning and feature engineering, may be necessary for more in-depth analysis and modeling. Additionally, it's important to address missing or unspecified information in the dataset for more accurate analysis and predictions.
